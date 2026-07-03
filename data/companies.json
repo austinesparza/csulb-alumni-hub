@@ -10,8 +10,14 @@
     "industry": "Diagnostics",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/robert-hoiness-ms-mb-ascp-cgmbs-14365162",
-      "https://www.linkedin.com/in/cindy-ayala-b126991a0"
+      {
+        "name": "Robert Hoiness",
+        "url": "https://www.linkedin.com/in/robert-hoiness-ms-mb-ascp-cgmbs-14365162"
+      },
+      {
+        "name": "Cindy Ayala",
+        "url": "https://www.linkedin.com/in/cindy-ayala-b126991a0"
+      }
     ],
     "lat": 33.5768,
     "lng": -117.7253
@@ -27,8 +33,14 @@
     "industry": "Diagnostics",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/rudy-fabunan",
-      "https://www.linkedin.com/in/andrewshanefowler"
+      {
+        "name": "Rudy Fabunan",
+        "url": "https://www.linkedin.com/in/rudy-fabunan"
+      },
+      {
+        "name": "Andrewshanefowler",
+        "url": "https://www.linkedin.com/in/andrewshanefowler"
+      }
     ],
     "lat": 33.5768,
     "lng": -117.7253
@@ -44,7 +56,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/christopher-hunter-680483b"
+      {
+        "name": "Christopher Hunter",
+        "url": "https://www.linkedin.com/in/christopher-hunter-680483b"
+      }
     ],
     "lat": 33.5768,
     "lng": -117.7253
@@ -60,7 +75,10 @@
     "industry": "Research Tools",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/nora-dawood-a256981a0"
+      {
+        "name": "Nora Dawood",
+        "url": "https://www.linkedin.com/in/nora-dawood-a256981a0"
+      }
     ],
     "lat": 33.5768,
     "lng": -117.7253
@@ -76,8 +94,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/charles-bloed-43314797",
-      "https://www.linkedin.com/in/mustapha-hammoude"
+      {
+        "name": "Charles Bloed",
+        "url": "https://www.linkedin.com/in/charles-bloed-43314797"
+      },
+      {
+        "name": "Mustapha Hammoude",
+        "url": "https://www.linkedin.com/in/mustapha-hammoude"
+      }
     ],
     "lat": 33.5768,
     "lng": -117.7253
@@ -93,8 +117,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/glenn-sussman-905252a",
-      "https://www.linkedin.com/in/jdennewill"
+      {
+        "name": "Glenn Sussman",
+        "url": "https://www.linkedin.com/in/glenn-sussman-905252a"
+      },
+      {
+        "name": "Jdennewill",
+        "url": "https://www.linkedin.com/in/jdennewill"
+      }
     ],
     "lat": 33.5768,
     "lng": -117.7253
@@ -110,7 +140,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/james-dinh-0414b225"
+      {
+        "name": "James Dinh",
+        "url": "https://www.linkedin.com/in/james-dinh-0414b225"
+      }
     ],
     "lat": 33.5768,
     "lng": -117.7253
@@ -126,7 +159,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/karen-pang-9212b68"
+      {
+        "name": "Karen Pang",
+        "url": "https://www.linkedin.com/in/karen-pang-9212b68"
+      }
     ],
     "lat": 33.5768,
     "lng": -117.7253
@@ -142,9 +178,18 @@
     "industry": "Biopharma",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/maya-e-603952263",
-      "https://www.linkedin.com/in/kyla-therese-anderson",
-      "https://www.linkedin.com/in/vanessa-altamirano-4bb30a114"
+      {
+        "name": "Maya E",
+        "url": "https://www.linkedin.com/in/maya-e-603952263"
+      },
+      {
+        "name": "Kyla Therese",
+        "url": "https://www.linkedin.com/in/kyla-therese-anderson"
+      },
+      {
+        "name": "Vanessa Altamirano",
+        "url": "https://www.linkedin.com/in/vanessa-altamirano-4bb30a114"
+      }
     ],
     "lat": 33.8353,
     "lng": -117.9145
@@ -160,7 +205,10 @@
     "industry": "Diagnostics",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/jennifer-m-ferguson"
+      {
+        "name": "Jennifer M",
+        "url": "https://www.linkedin.com/in/jennifer-m-ferguson"
+      }
     ],
     "lat": 33.8353,
     "lng": -117.9145
@@ -176,8 +224,14 @@
     "industry": "Med Devices",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/sukmar-ramanan",
-      "https://www.linkedin.com/in/nhat-tam-nguyen-43a7b248"
+      {
+        "name": "Sukmar Ramanan",
+        "url": "https://www.linkedin.com/in/sukmar-ramanan"
+      },
+      {
+        "name": "Nhat Tam",
+        "url": "https://www.linkedin.com/in/nhat-tam-nguyen-43a7b248"
+      }
     ],
     "lat": 34.1397,
     "lng": -118.0353
@@ -193,8 +247,14 @@
     "industry": "Cell & Gene Therapy",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/joseph-huang-7a51611",
-      "https://www.linkedin.com/in/christina-l-8914514a"
+      {
+        "name": "Joseph Huang",
+        "url": "https://www.linkedin.com/in/joseph-huang-7a51611"
+      },
+      {
+        "name": "Christina L",
+        "url": "https://www.linkedin.com/in/christina-l-8914514a"
+      }
     ],
     "lat": 34.1397,
     "lng": -118.0353
@@ -210,7 +270,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/samantha-fernandez-b5b223311"
+      {
+        "name": "Samantha Fernandez",
+        "url": "https://www.linkedin.com/in/samantha-fernandez-b5b223311"
+      }
     ],
     "lat": 35.3733,
     "lng": -119.0187
@@ -226,9 +289,18 @@
     "industry": "Diagnostics",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/ingridcabuto",
-      "https://www.linkedin.com/in/rehan-aslam-8b675977",
-      "https://www.linkedin.com/in/diego-sosa-86512357"
+      {
+        "name": "Ingridcabuto",
+        "url": "https://www.linkedin.com/in/ingridcabuto"
+      },
+      {
+        "name": "Rehan Aslam",
+        "url": "https://www.linkedin.com/in/rehan-aslam-8b675977"
+      },
+      {
+        "name": "Diego Sosa",
+        "url": "https://www.linkedin.com/in/diego-sosa-86512357"
+      }
     ],
     "lat": 34.0853,
     "lng": -117.9609
@@ -244,9 +316,15 @@
     "industry": "Diagnostics",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/alain-h-968668199",
+      {
+        "name": "Alain H",
+        "url": "https://www.linkedin.com/in/alain-h-968668199"
+      },
       "https://www.linkedin.com/in/michaeleenramirez27",
-      "https://www.linkedin.com/in/deborah-kubasek-5313248"
+      {
+        "name": "Deborah Kubasek",
+        "url": "https://www.linkedin.com/in/deborah-kubasek-5313248"
+      }
     ],
     "lat": 33.9167,
     "lng": -117.9
@@ -262,7 +340,10 @@
     "industry": "Med Devices",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/carolina-cortes-68588717b"
+      {
+        "name": "Carolina Cortes",
+        "url": "https://www.linkedin.com/in/carolina-cortes-68588717b"
+      }
     ],
     "lat": 33.9167,
     "lng": -117.9
@@ -278,8 +359,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/samraymundo",
-      "https://www.linkedin.com/in/jesus-lopez-960b85308"
+      {
+        "name": "Samraymundo",
+        "url": "https://www.linkedin.com/in/samraymundo"
+      },
+      {
+        "name": "Jesus Lopez",
+        "url": "https://www.linkedin.com/in/jesus-lopez-960b85308"
+      }
     ],
     "lat": 34.2164,
     "lng": -119.0376
@@ -295,7 +382,10 @@
     "industry": "Med Devices",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/eduardo-jimenez-2b15498"
+      {
+        "name": "Eduardo Jimenez",
+        "url": "https://www.linkedin.com/in/eduardo-jimenez-2b15498"
+      }
     ],
     "lat": 33.0145,
     "lng": -117.2811
@@ -325,7 +415,10 @@
     "industry": "Diagnostics",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/james-mensalvas-a3b0a86"
+      {
+        "name": "James Mensalvas",
+        "url": "https://www.linkedin.com/in/james-mensalvas-a3b0a86"
+      }
     ],
     "lat": 33.1581,
     "lng": -117.3506
@@ -336,13 +429,19 @@
     "location": "CA - Carlsbad",
     "city": "Carlsbad",
     "region": "San Diego",
-    "description": "Argonaut is a CMO dedicated to serving highly-innovative companies in biopharmaceuticals and molecular diagnostics. Specializing in formulation, filling, finishing and final kitting.",
+    "description": "Argonaut is a CMO dedicated to serving highly-innovative companies in biopharmaceuticals and molecular diagnostics. Specializing in formulation, filling, finishing and final kitting.",
     "website": "https://www.argonautms.com/",
     "industry": "Diagnostics",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/rhonda-chapp-070447218",
-      "https://www.linkedin.com/in/richard-j-hargis-49960960"
+      {
+        "name": "Rhonda Chapp",
+        "url": "https://www.linkedin.com/in/rhonda-chapp-070447218"
+      },
+      {
+        "name": "Richard J",
+        "url": "https://www.linkedin.com/in/richard-j-hargis-49960960"
+      }
     ],
     "lat": 33.1581,
     "lng": -117.3506
@@ -358,8 +457,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/song-b-ley-32333770",
-      "https://www.linkedin.com/in/neil-tolentino-43575458"
+      {
+        "name": "Song B",
+        "url": "https://www.linkedin.com/in/song-b-ley-32333770"
+      },
+      {
+        "name": "Neil Tolentino",
+        "url": "https://www.linkedin.com/in/neil-tolentino-43575458"
+      }
     ],
     "lat": 33.1581,
     "lng": -117.3506
@@ -375,7 +480,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/naynasanathara"
+      {
+        "name": "Naynasanathara",
+        "url": "https://www.linkedin.com/in/naynasanathara"
+      }
     ],
     "lat": 33.1581,
     "lng": -117.3506
@@ -391,9 +499,18 @@
     "industry": "Med Devices",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/nia-sanchez",
-      "https://www.linkedin.com/in/ayse-ergin-hartwig-7534066/  (AE Personal Connection)",
-      "https://www.linkedin.com/in/nia-sanchez"
+      {
+        "name": "Nia Sanchez",
+        "url": "https://www.linkedin.com/in/nia-sanchez"
+      },
+      {
+        "name": "Ayse Ergin",
+        "url": "https://www.linkedin.com/in/ayse-ergin-hartwig-7534066"
+      },
+      {
+        "name": "Nia Sanchez",
+        "url": "https://www.linkedin.com/in/nia-sanchez"
+      }
     ],
     "lat": 33.1581,
     "lng": -117.3506
@@ -409,7 +526,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/kunaal-sarhaya"
+      {
+        "name": "Kunaal Sarhaya",
+        "url": "https://www.linkedin.com/in/kunaal-sarhaya"
+      }
     ],
     "lat": 33.1581,
     "lng": -117.3506
@@ -425,8 +545,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/mahsa-mahboub-paul-4202ba10",
-      "https://www.linkedin.com/in/matt-kradle-3334157"
+      {
+        "name": "Mahsa Mahboub",
+        "url": "https://www.linkedin.com/in/mahsa-mahboub-paul-4202ba10"
+      },
+      {
+        "name": "Matt Kradle",
+        "url": "https://www.linkedin.com/in/matt-kradle-3334157"
+      }
     ],
     "lat": 33.1581,
     "lng": -117.3506
@@ -442,7 +568,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/arnel-s-gancenia"
+      {
+        "name": "Arnel S",
+        "url": "https://www.linkedin.com/in/arnel-s-gancenia"
+      }
     ],
     "lat": 33.1581,
     "lng": -117.3506
@@ -474,8 +603,14 @@
     "industry": "Research Tools",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/mchllthai/  (AE Zymo Connection)",
-      "https://www.linkedin.com/in/mikayla-anne-msc/  (AE Zymo Connection)"
+      {
+        "name": "Mchllthai",
+        "url": "https://www.linkedin.com/in/mchllthai"
+      },
+      {
+        "name": "Mikayla Anne",
+        "url": "https://www.linkedin.com/in/mikayla-anne-msc"
+      }
     ],
     "lat": 33.1581,
     "lng": -117.3506
@@ -491,8 +626,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/amandazagar",
-      "https://www.linkedin.com/in/cunninghamlinda"
+      {
+        "name": "Amandazagar",
+        "url": "https://www.linkedin.com/in/amandazagar"
+      },
+      {
+        "name": "Cunninghamlinda",
+        "url": "https://www.linkedin.com/in/cunninghamlinda"
+      }
     ],
     "lat": 33.1581,
     "lng": -117.3506
@@ -508,8 +649,14 @@
     "industry": "Diagnostics",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/rehan-aslam-8b675977",
-      "https://www.linkedin.com/in/diego-sosa-86512357"
+      {
+        "name": "Rehan Aslam",
+        "url": "https://www.linkedin.com/in/rehan-aslam-8b675977"
+      },
+      {
+        "name": "Diego Sosa",
+        "url": "https://www.linkedin.com/in/diego-sosa-86512357"
+      }
     ],
     "lat": 34.3989,
     "lng": -119.5085
@@ -525,7 +672,10 @@
     "industry": "CRO / CMO",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/lylarathpoly"
+      {
+        "name": "Lylarathpoly",
+        "url": "https://www.linkedin.com/in/lylarathpoly"
+      }
     ],
     "lat": 32.6401,
     "lng": -117.0842
@@ -541,7 +691,10 @@
     "industry": "CRO / CMO",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/arlene-rodriguez70"
+      {
+        "name": "Arlene",
+        "url": "https://www.linkedin.com/in/arlene-rodriguez70"
+      }
     ],
     "lat": 33.8169,
     "lng": -118.0373
@@ -557,7 +710,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/lauren-livengood96"
+      {
+        "name": "Lauren",
+        "url": "https://www.linkedin.com/in/lauren-livengood96"
+      }
     ],
     "lat": 33.8169,
     "lng": -118.0373
@@ -573,7 +729,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/rolando-gonzalez-a41234198"
+      {
+        "name": "Rolando Gonzalez",
+        "url": "https://www.linkedin.com/in/rolando-gonzalez-a41234198"
+      }
     ],
     "lat": 34.0286,
     "lng": -117.8103
@@ -589,7 +748,10 @@
     "industry": "Diagnostics",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/dorahortiz"
+      {
+        "name": "Dorahortiz",
+        "url": "https://www.linkedin.com/in/dorahortiz"
+      }
     ],
     "lat": 33.9401,
     "lng": -118.1331
@@ -605,8 +767,14 @@
     "industry": "Diagnostics",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/amir-lechner",
-      "https://www.linkedin.com/in/jessica-roussos-29175661"
+      {
+        "name": "Amir Lechner",
+        "url": "https://www.linkedin.com/in/amir-lechner"
+      },
+      {
+        "name": "Jessica Roussos",
+        "url": "https://www.linkedin.com/in/jessica-roussos-29175661"
+      }
     ],
     "lat": 34.0686,
     "lng": -118.0276
@@ -638,8 +806,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/vanessa-garcia-91b0b3143",
-      "https://www.linkedin.com/in/marianne-inui-2550853a"
+      {
+        "name": "Vanessa Garcia",
+        "url": "https://www.linkedin.com/in/vanessa-garcia-91b0b3143"
+      },
+      {
+        "name": "Marianne Inui",
+        "url": "https://www.linkedin.com/in/marianne-inui-2550853a"
+      }
     ],
     "lat": 33.9192,
     "lng": -118.4165
@@ -655,8 +829,14 @@
     "industry": "Med Devices",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/robert-hampton-80240715b",
-      "https://www.linkedin.com/in/kevin-halleck-a90a4420"
+      {
+        "name": "Robert Hampton",
+        "url": "https://www.linkedin.com/in/robert-hampton-80240715b"
+      },
+      {
+        "name": "Kevin Halleck",
+        "url": "https://www.linkedin.com/in/kevin-halleck-a90a4420"
+      }
     ],
     "lat": 33.9192,
     "lng": -118.4165
@@ -673,7 +853,10 @@
     "alumCount": 2,
     "alums": [
       "https://www.linkedin.com/in/timmydelacruz831",
-      "https://www.linkedin.com/in/selina-francesca-urfano"
+      {
+        "name": "Selina Francesca",
+        "url": "https://www.linkedin.com/in/selina-francesca-urfano"
+      }
     ],
     "lat": 33.9192,
     "lng": -118.4165
@@ -705,7 +888,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/tina-middleton-ba811237"
+      {
+        "name": "Tina Middleton",
+        "url": "https://www.linkedin.com/in/tina-middleton-ba811237"
+      }
     ],
     "lat": 33.9192,
     "lng": -118.4165
@@ -721,7 +907,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/liliana-ruiz-leon-59434a49"
+      {
+        "name": "Liliana Ruiz",
+        "url": "https://www.linkedin.com/in/liliana-ruiz-leon-59434a49"
+      }
     ],
     "lat": 34.1514,
     "lng": -118.501
@@ -737,8 +926,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/antonio-landa0",
-      "https://www.linkedin.com/in/lynne-mcdaniel-4a5a0b2a"
+      {
+        "name": "Antonio",
+        "url": "https://www.linkedin.com/in/antonio-landa0"
+      },
+      {
+        "name": "Lynne Mcdaniel",
+        "url": "https://www.linkedin.com/in/lynne-mcdaniel-4a5a0b2a"
+      }
     ],
     "lat": 33.685,
     "lng": -117.6617
@@ -754,7 +949,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/msguerri"
+      {
+        "name": "Msguerri",
+        "url": "https://www.linkedin.com/in/msguerri"
+      }
     ],
     "lat": 33.685,
     "lng": -117.6617
@@ -771,7 +969,10 @@
     "alumCount": 2,
     "alums": [
       "https://www.linkedin.com/in/clloyd1067",
-      "https://www.linkedin.com/in/john-kuras-mba-usaf-veteran-9bb18619"
+      {
+        "name": "John Kuras",
+        "url": "https://www.linkedin.com/in/john-kuras-mba-usaf-veteran-9bb18619"
+      }
     ],
     "lat": 33.7743,
     "lng": -117.9378
@@ -787,7 +988,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/paul-lytle-cpa-inactive-0ab40315"
+      {
+        "name": "Paul Lytle",
+        "url": "https://www.linkedin.com/in/paul-lytle-cpa-inactive-0ab40315"
+      }
     ],
     "lat": 33.6595,
     "lng": -117.9988
@@ -803,7 +1007,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/elizabeth-quinones-259502123/ (AE Personal Contact)"
+      {
+        "name": "Elizabeth Quinones",
+        "url": "https://www.linkedin.com/in/elizabeth-quinones-259502123"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -819,8 +1026,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/jonathan-shaoulian-742737122",
-      "https://www.linkedin.com/in/a-andriana-g-92134622"
+      {
+        "name": "Jonathan Shaoulian",
+        "url": "https://www.linkedin.com/in/jonathan-shaoulian-742737122"
+      },
+      {
+        "name": "A Andriana",
+        "url": "https://www.linkedin.com/in/a-andriana-g-92134622"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -852,8 +1065,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/randi-brydon-87138168",
-      "https://www.linkedin.com/in/bryantvt"
+      {
+        "name": "Randi Brydon",
+        "url": "https://www.linkedin.com/in/randi-brydon-87138168"
+      },
+      {
+        "name": "Bryantvt",
+        "url": "https://www.linkedin.com/in/bryantvt"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -869,8 +1088,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/albert-romo-b734b17",
-      "https://www.linkedin.com/in/mark-caniga"
+      {
+        "name": "Albert Romo",
+        "url": "https://www.linkedin.com/in/albert-romo-b734b17"
+      },
+      {
+        "name": "Mark Caniga",
+        "url": "https://www.linkedin.com/in/mark-caniga"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -886,8 +1111,14 @@
     "industry": "Med Devices",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/eduardo-charcas-5605a8a6",
-      "https://www.linkedin.com/in/lina-kreter-432871142"
+      {
+        "name": "Eduardo Charcas",
+        "url": "https://www.linkedin.com/in/eduardo-charcas-5605a8a6"
+      },
+      {
+        "name": "Lina Kreter",
+        "url": "https://www.linkedin.com/in/lina-kreter-432871142"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -903,7 +1134,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/peter-garry-3a098a23a"
+      {
+        "name": "Peter Garry",
+        "url": "https://www.linkedin.com/in/peter-garry-3a098a23a"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -919,7 +1153,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/tom-whalen-54064618"
+      {
+        "name": "Tom Whalen",
+        "url": "https://www.linkedin.com/in/tom-whalen-54064618"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -935,7 +1172,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/ronnie-kimble"
+      {
+        "name": "Ronnie Kimble",
+        "url": "https://www.linkedin.com/in/ronnie-kimble"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -951,7 +1191,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/kathleen-rodgers-ma-rdn-ld-cdces-00a0381b"
+      {
+        "name": "Kathleen Rodgers",
+        "url": "https://www.linkedin.com/in/kathleen-rodgers-ma-rdn-ld-cdces-00a0381b"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -962,12 +1205,15 @@
     "location": "CA - Irvine",
     "city": "Irvine",
     "region": "Orange County",
-    "description": "BioDuro | fully integrated CRDMO | 28 years. We can take our clients from target identification through to commercial drug product manufacturing.",
+    "description": "Fully integrated CRDMO from target identification through commercial drug product manufacturing",
     "website": "https://www.bioduro.com/",
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/tommy-korm-a67783157"
+      {
+        "name": "Tommy Korm",
+        "url": "https://www.linkedin.com/in/tommy-korm-a67783157"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -983,8 +1229,14 @@
     "industry": "Diagnostics",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/christianvgo",
-      "https://www.linkedin.com/in/natcha-sukserm-croom-a629586a"
+      {
+        "name": "Christianvgo",
+        "url": "https://www.linkedin.com/in/christianvgo"
+      },
+      {
+        "name": "Natcha Sukserm",
+        "url": "https://www.linkedin.com/in/natcha-sukserm-croom-a629586a"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1000,7 +1252,10 @@
     "industry": "Diagnostics",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/patrick-le-12b9a51a1",
+      {
+        "name": "Patrick Le",
+        "url": "https://www.linkedin.com/in/patrick-le-12b9a51a1"
+      },
       "https://www.linkedin.com/in/raygoza21"
     ],
     "lat": 33.6846,
@@ -1017,7 +1272,10 @@
     "industry": "Diagnostics",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/ed-balcos-5334599"
+      {
+        "name": "Ed Balcos",
+        "url": "https://www.linkedin.com/in/ed-balcos-5334599"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1033,7 +1291,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/suzanne-golden-108a0b1a"
+      {
+        "name": "Suzanne Golden",
+        "url": "https://www.linkedin.com/in/suzanne-golden-108a0b1a"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1049,7 +1310,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/caryn-hoang"
+      {
+        "name": "Caryn Hoang",
+        "url": "https://www.linkedin.com/in/caryn-hoang"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1081,8 +1345,14 @@
     "industry": "Med Devices",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/gabriela-murrieta",
-      "https://www.linkedin.com/in/jason-le-9109aab4"
+      {
+        "name": "Gabriela Murrieta",
+        "url": "https://www.linkedin.com/in/gabriela-murrieta"
+      },
+      {
+        "name": "Jason Le",
+        "url": "https://www.linkedin.com/in/jason-le-9109aab4"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1098,8 +1368,14 @@
     "industry": "Med Devices",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/mark-belgen-b246407",
-      "https://www.linkedin.com/in/jermaine-simpson-3aa38660"
+      {
+        "name": "Mark Belgen",
+        "url": "https://www.linkedin.com/in/mark-belgen-b246407"
+      },
+      {
+        "name": "Jermaine Simpson",
+        "url": "https://www.linkedin.com/in/jermaine-simpson-3aa38660"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1115,7 +1391,10 @@
     "industry": "Med Devices",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/taylorscottdoyle"
+      {
+        "name": "Taylorscottdoyle",
+        "url": "https://www.linkedin.com/in/taylorscottdoyle"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1131,7 +1410,10 @@
     "industry": "Research Tools",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/christinakimlee"
+      {
+        "name": "Christinakimlee",
+        "url": "https://www.linkedin.com/in/christinakimlee"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1147,7 +1429,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/joelle-hafen-7349a9140"
+      {
+        "name": "Joelle Hafen",
+        "url": "https://www.linkedin.com/in/joelle-hafen-7349a9140"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1163,7 +1448,10 @@
     "industry": "Med Devices",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/christinie",
+      {
+        "name": "Christinie",
+        "url": "https://www.linkedin.com/in/christinie"
+      },
       "https://www.linkedin.com/in/esterk1m"
     ],
     "lat": 33.6846,
@@ -1180,7 +1468,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/noha-mikati-31417928b"
+      {
+        "name": "Noha Mikati",
+        "url": "https://www.linkedin.com/in/noha-mikati-31417928b"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1196,8 +1487,14 @@
     "industry": "CRO / CMO",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/lauren-van-268455175",
-      "https://www.linkedin.com/in/nicoletteponce"
+      {
+        "name": "Lauren Van",
+        "url": "https://www.linkedin.com/in/lauren-van-268455175"
+      },
+      {
+        "name": "Nicoletteponce",
+        "url": "https://www.linkedin.com/in/nicoletteponce"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1213,7 +1510,10 @@
     "industry": "Med Devices",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/connie-correa-thomson"
+      {
+        "name": "Connie Correa",
+        "url": "https://www.linkedin.com/in/connie-correa-thomson"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1229,7 +1529,10 @@
     "industry": "Med Devices",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/chrisleever"
+      {
+        "name": "Chrisleever",
+        "url": "https://www.linkedin.com/in/chrisleever"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1245,8 +1548,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/jamie-pham-b48591233",
-      "https://www.linkedin.com/in/ron-newman-6355139"
+      {
+        "name": "Jamie Pham",
+        "url": "https://www.linkedin.com/in/jamie-pham-b48591233"
+      },
+      {
+        "name": "Ron Newman",
+        "url": "https://www.linkedin.com/in/ron-newman-6355139"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1262,9 +1571,18 @@
     "industry": "Med Devices",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/talha-karwa",
-      "https://www.linkedin.com/in/elyar-ghafoori-ph-d-41159938",
-      "https://www.linkedin.com/in/alara-polat"
+      {
+        "name": "Talha Karwa",
+        "url": "https://www.linkedin.com/in/talha-karwa"
+      },
+      {
+        "name": "Elyar Ghafoori",
+        "url": "https://www.linkedin.com/in/elyar-ghafoori-ph-d-41159938"
+      },
+      {
+        "name": "Alara Polat",
+        "url": "https://www.linkedin.com/in/alara-polat"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1280,7 +1598,10 @@
     "industry": "Cell & Gene Therapy",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/leslie-frisby-b751727b"
+      {
+        "name": "Leslie Frisby",
+        "url": "https://www.linkedin.com/in/leslie-frisby-b751727b"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1296,7 +1617,10 @@
     "industry": "Diagnostics",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/mertcan-ercetin-622a42188"
+      {
+        "name": "Mertcan Ercetin",
+        "url": "https://www.linkedin.com/in/mertcan-ercetin-622a42188"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1312,8 +1636,14 @@
     "industry": "Med Devices",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/jamie-i-b2357315a",
-      "https://www.linkedin.com/in/alana-haynes-a57bb3239"
+      {
+        "name": "Jamie I",
+        "url": "https://www.linkedin.com/in/jamie-i-b2357315a"
+      },
+      {
+        "name": "Alana Haynes",
+        "url": "https://www.linkedin.com/in/alana-haynes-a57bb3239"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1329,7 +1659,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/mindyz"
+      {
+        "name": "Mindyz",
+        "url": "https://www.linkedin.com/in/mindyz"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1345,8 +1678,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/morcos-bastwrous-37590a1b1",
-      "https://www.linkedin.com/in/stephen-a-everett"
+      {
+        "name": "Morcos Bastwrous",
+        "url": "https://www.linkedin.com/in/morcos-bastwrous-37590a1b1"
+      },
+      {
+        "name": "Stephen A",
+        "url": "https://www.linkedin.com/in/stephen-a-everett"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1362,8 +1701,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/rannah-jahedi-1b094618",
-      "https://www.linkedin.com/in/erik-galicia-450453185"
+      {
+        "name": "Rannah Jahedi",
+        "url": "https://www.linkedin.com/in/rannah-jahedi-1b094618"
+      },
+      {
+        "name": "Erik Galicia",
+        "url": "https://www.linkedin.com/in/erik-galicia-450453185"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1379,7 +1724,10 @@
     "industry": "Med Devices",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/tim-payne-5ba586190"
+      {
+        "name": "Tim Payne",
+        "url": "https://www.linkedin.com/in/tim-payne-5ba586190"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1395,8 +1743,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/pauletteoden",
-      "https://www.linkedin.com/in/bryan-vu98"
+      {
+        "name": "Pauletteoden",
+        "url": "https://www.linkedin.com/in/pauletteoden"
+      },
+      {
+        "name": "Bryan",
+        "url": "https://www.linkedin.com/in/bryan-vu98"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1412,9 +1766,18 @@
     "industry": "Med Devices",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/brett-weber-35045778",
-      "https://www.linkedin.com/in/tom-gundlock-5406697",
-      "https://www.linkedin.com/in/jenb3"
+      {
+        "name": "Brett Weber",
+        "url": "https://www.linkedin.com/in/brett-weber-35045778"
+      },
+      {
+        "name": "Tom Gundlock",
+        "url": "https://www.linkedin.com/in/tom-gundlock-5406697"
+      },
+      {
+        "name": "Jenb3",
+        "url": "https://www.linkedin.com/in/jenb3"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1430,7 +1793,10 @@
     "industry": "Diagnostics",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/jessica-huynh-905414106"
+      {
+        "name": "Jessica Huynh",
+        "url": "https://www.linkedin.com/in/jessica-huynh-905414106"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1446,7 +1812,10 @@
     "industry": "Med Devices",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/elizabeth-norman-041a1926"
+      {
+        "name": "Elizabeth Norman",
+        "url": "https://www.linkedin.com/in/elizabeth-norman-041a1926"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1462,8 +1831,14 @@
     "industry": "Diagnostics",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/angela-tran-325037125",
-      "https://www.linkedin.com/in/kevin-t-157231b4"
+      {
+        "name": "Angela Tran",
+        "url": "https://www.linkedin.com/in/angela-tran-325037125"
+      },
+      {
+        "name": "Kevin T",
+        "url": "https://www.linkedin.com/in/kevin-t-157231b4"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1479,8 +1854,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/burt-secrest-8907a07",
-      "https://www.linkedin.com/in/heather-ventresco"
+      {
+        "name": "Burt Secrest",
+        "url": "https://www.linkedin.com/in/burt-secrest-8907a07"
+      },
+      {
+        "name": "Heather Ventresco",
+        "url": "https://www.linkedin.com/in/heather-ventresco"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1496,7 +1877,10 @@
     "industry": "Med Devices",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/annikahumphrey"
+      {
+        "name": "Annikahumphrey",
+        "url": "https://www.linkedin.com/in/annikahumphrey"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1512,7 +1896,10 @@
     "industry": "CRO / CMO",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/william-poon-a7b81964"
+      {
+        "name": "William Poon",
+        "url": "https://www.linkedin.com/in/william-poon-a7b81964"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1528,8 +1915,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/daniel-allen-msio-phr-shrm-cp-b5a648118",
-      "https://www.linkedin.com/in/sydney-roberts-8461b5139"
+      {
+        "name": "Daniel Allen",
+        "url": "https://www.linkedin.com/in/daniel-allen-msio-phr-shrm-cp-b5a648118"
+      },
+      {
+        "name": "Sydney Roberts",
+        "url": "https://www.linkedin.com/in/sydney-roberts-8461b5139"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1545,8 +1938,14 @@
     "industry": "Med Devices",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/nicole-pham-b219301a8",
-      "https://www.linkedin.com/in/jonathan-vu-a851a7192"
+      {
+        "name": "Nicole Pham",
+        "url": "https://www.linkedin.com/in/nicole-pham-b219301a8"
+      },
+      {
+        "name": "Jonathan Vu",
+        "url": "https://www.linkedin.com/in/jonathan-vu-a851a7192"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1562,8 +1961,14 @@
     "industry": "Research Tools",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/john-sherman-34823878",
-      "https://www.linkedin.com/in/maria-rivera-053674167"
+      {
+        "name": "John Sherman",
+        "url": "https://www.linkedin.com/in/john-sherman-34823878"
+      },
+      {
+        "name": "Maria Rivera",
+        "url": "https://www.linkedin.com/in/maria-rivera-053674167"
+      }
     ],
     "lat": 33.6846,
     "lng": -117.8265
@@ -1579,7 +1984,10 @@
     "industry": "Research Tools",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/seanthomascasey"
+      {
+        "name": "Seanthomascasey",
+        "url": "https://www.linkedin.com/in/seanthomascasey"
+      }
     ],
     "lat": 32.8328,
     "lng": -117.2713
@@ -1595,9 +2003,18 @@
     "industry": "Research Tools",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/robbin-nameki-phd-887ab9aa",
-      "https://www.linkedin.com/in/jameslco",
-      "https://www.linkedin.com/in/nieltran"
+      {
+        "name": "Robbin Nameki",
+        "url": "https://www.linkedin.com/in/robbin-nameki-phd-887ab9aa"
+      },
+      {
+        "name": "Jameslco",
+        "url": "https://www.linkedin.com/in/jameslco"
+      },
+      {
+        "name": "Nieltran",
+        "url": "https://www.linkedin.com/in/nieltran"
+      }
     ],
     "lat": 32.8328,
     "lng": -117.2713
@@ -1613,7 +2030,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/christopher-gliniak-0a91b4a2"
+      {
+        "name": "Christopher Gliniak",
+        "url": "https://www.linkedin.com/in/christopher-gliniak-0a91b4a2"
+      }
     ],
     "lat": 32.8328,
     "lng": -117.2713
@@ -1629,8 +2049,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/raul-varela-",
-      "https://www.linkedin.com/in/sidharth-modha"
+      {
+        "name": "Raul Varela",
+        "url": "https://www.linkedin.com/in/raul-varela-"
+      },
+      {
+        "name": "Sidharth Modha",
+        "url": "https://www.linkedin.com/in/sidharth-modha"
+      }
     ],
     "lat": 33.6031,
     "lng": -117.7089
@@ -1646,7 +2072,10 @@
     "industry": "Med Devices",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/quynh-chi-nguyen-le-81753b1a3"
+      {
+        "name": "Quynh Chi",
+        "url": "https://www.linkedin.com/in/quynh-chi-nguyen-le-81753b1a3"
+      }
     ],
     "lat": 33.5225,
     "lng": -117.7075
@@ -1662,7 +2091,10 @@
     "industry": "Diagnostics",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/rylee-ortivez"
+      {
+        "name": "Rylee Ortivez",
+        "url": "https://www.linkedin.com/in/rylee-ortivez"
+      }
     ],
     "lat": 33.6469,
     "lng": -117.6892
@@ -1678,7 +2110,10 @@
     "industry": "Diagnostics",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/anthony-shatola-758a573"
+      {
+        "name": "Anthony Shatola",
+        "url": "https://www.linkedin.com/in/anthony-shatola-758a573"
+      }
     ],
     "lat": 33.6469,
     "lng": -117.6892
@@ -1694,7 +2129,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/liliana-ruiz-leon-59434a49"
+      {
+        "name": "Liliana Ruiz",
+        "url": "https://www.linkedin.com/in/liliana-ruiz-leon-59434a49"
+      }
     ],
     "lat": 33.8036,
     "lng": -118.0723
@@ -1710,8 +2148,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/adan-arizmendi-58616a12a",
-      "https://www.linkedin.com/in/fabian-ambriz-780318190"
+      {
+        "name": "Adan Arizmendi",
+        "url": "https://www.linkedin.com/in/adan-arizmendi-58616a12a"
+      },
+      {
+        "name": "Fabian Ambriz",
+        "url": "https://www.linkedin.com/in/fabian-ambriz-780318190"
+      }
     ],
     "lat": 34.0522,
     "lng": -118.2437
@@ -1727,9 +2171,18 @@
     "industry": "Diagnostics",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/katherine-haley-a01637a7",
-      "https://www.linkedin.com/in/rosangelica-palacios",
-      "https://www.linkedin.com/in/danny-chan-1946ba251"
+      {
+        "name": "Katherine Haley",
+        "url": "https://www.linkedin.com/in/katherine-haley-a01637a7"
+      },
+      {
+        "name": "Rosangelica Palacios",
+        "url": "https://www.linkedin.com/in/rosangelica-palacios"
+      },
+      {
+        "name": "Danny Chan",
+        "url": "https://www.linkedin.com/in/danny-chan-1946ba251"
+      }
     ],
     "lat": 34.0522,
     "lng": -118.2437
@@ -1745,7 +2198,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/shirlee-shoji-65229314b"
+      {
+        "name": "Shirlee Shoji",
+        "url": "https://www.linkedin.com/in/shirlee-shoji-65229314b"
+      }
     ],
     "lat": 34.0522,
     "lng": -118.2437
@@ -1762,7 +2218,10 @@
     "alumCount": 2,
     "alums": [
       "https://www.linkedin.com/in/oscarmserrano01",
-      "https://www.linkedin.com/in/darko-milenkovic-947244197"
+      {
+        "name": "Darko Milenkovic",
+        "url": "https://www.linkedin.com/in/darko-milenkovic-947244197"
+      }
     ],
     "lat": 34.0259,
     "lng": -118.7798
@@ -1778,7 +2237,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/erika-vielmas-m-s-a817ba19b"
+      {
+        "name": "Erika Vielmas",
+        "url": "https://www.linkedin.com/in/erika-vielmas-m-s-a817ba19b"
+      }
     ],
     "lat": 34.1442,
     "lng": -117.9981
@@ -1794,7 +2256,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/liliana-ruiz-leon-59434a49"
+      {
+        "name": "Liliana Ruiz",
+        "url": "https://www.linkedin.com/in/liliana-ruiz-leon-59434a49"
+      }
     ],
     "lat": 33.6189,
     "lng": -117.9289
@@ -1810,8 +2275,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/melissa-kaye-jones",
-      "https://www.linkedin.com/in/luladeyayalew"
+      {
+        "name": "Melissa Kaye",
+        "url": "https://www.linkedin.com/in/melissa-kaye-jones"
+      },
+      {
+        "name": "Luladeyayalew",
+        "url": "https://www.linkedin.com/in/luladeyayalew"
+      }
     ],
     "lat": 33.1959,
     "lng": -117.3795
@@ -1827,8 +2298,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/chad-martin-mba-3b2b33ab",
-      "https://www.linkedin.com/in/sumer-abdul-hafiz-64681297"
+      {
+        "name": "Chad Martin",
+        "url": "https://www.linkedin.com/in/chad-martin-mba-3b2b33ab"
+      },
+      {
+        "name": "Sumer Abdul",
+        "url": "https://www.linkedin.com/in/sumer-abdul-hafiz-64681297"
+      }
     ],
     "lat": 33.1959,
     "lng": -117.3795
@@ -1845,7 +2322,10 @@
     "alumCount": 2,
     "alums": [
       "https://www.linkedin.com/in/timmydelacruz831",
-      "https://www.linkedin.com/in/selina-francesca-urfano"
+      {
+        "name": "Selina Francesca",
+        "url": "https://www.linkedin.com/in/selina-francesca-urfano"
+      }
     ],
     "lat": 33.1959,
     "lng": -117.3795
@@ -1861,7 +2341,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/bruce-lyday-1769b5372"
+      {
+        "name": "Bruce Lyday",
+        "url": "https://www.linkedin.com/in/bruce-lyday-1769b5372"
+      }
     ],
     "lat": 33.7879,
     "lng": -117.8531
@@ -1877,8 +2360,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/phedelleereyes",
-      "https://www.linkedin.com/in/elena-dardarian-moore-6a448015"
+      {
+        "name": "Phedelleereyes",
+        "url": "https://www.linkedin.com/in/phedelleereyes"
+      },
+      {
+        "name": "Elena Dardarian",
+        "url": "https://www.linkedin.com/in/elena-dardarian-moore-6a448015"
+      }
     ],
     "lat": 34.1478,
     "lng": -118.1445
@@ -1894,7 +2383,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/megan-tewari-73b3a627"
+      {
+        "name": "Megan Tewari",
+        "url": "https://www.linkedin.com/in/megan-tewari-73b3a627"
+      }
     ],
     "lat": 34.1478,
     "lng": -118.1445
@@ -1910,7 +2402,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/angela-bui-23682516a"
+      {
+        "name": "Angela Bui",
+        "url": "https://www.linkedin.com/in/angela-bui-23682516a"
+      }
     ],
     "lat": 34.1478,
     "lng": -118.1445
@@ -1926,7 +2421,10 @@
     "industry": "Diagnostics",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/shayan-riyaz"
+      {
+        "name": "Shayan Riyaz",
+        "url": "https://www.linkedin.com/in/shayan-riyaz"
+      }
     ],
     "lat": 34.1478,
     "lng": -118.1445
@@ -1942,7 +2440,10 @@
     "industry": "Diagnostics",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/julie-gularte-9706501b"
+      {
+        "name": "Julie Gularte",
+        "url": "https://www.linkedin.com/in/julie-gularte-9706501b"
+      }
     ],
     "lat": 32.9628,
     "lng": -117.0359
@@ -1958,7 +2459,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/simon-galleta-80a983290"
+      {
+        "name": "Simon Galleta",
+        "url": "https://www.linkedin.com/in/simon-galleta-80a983290"
+      }
     ],
     "lat": 34.1064,
     "lng": -117.5931
@@ -1974,8 +2478,14 @@
     "industry": "Med Devices",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/isabella-heien",
-      "https://www.linkedin.com/in/gomez-erika"
+      {
+        "name": "Isabella Heien",
+        "url": "https://www.linkedin.com/in/isabella-heien"
+      },
+      {
+        "name": "Gomez Erika",
+        "url": "https://www.linkedin.com/in/gomez-erika"
+      }
     ],
     "lat": 33.6408,
     "lng": -117.6032
@@ -1991,8 +2501,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/juarezmonica",
-      "https://www.linkedin.com/in/christine-martinez-51240351"
+      {
+        "name": "Juarezmonica",
+        "url": "https://www.linkedin.com/in/juarezmonica"
+      },
+      {
+        "name": "Christine Martinez",
+        "url": "https://www.linkedin.com/in/christine-martinez-51240351"
+      }
     ],
     "lat": 33.8492,
     "lng": -118.3884
@@ -2008,7 +2524,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/nicole-paz-bracamonte-646465185"
+      {
+        "name": "Nicole Paz",
+        "url": "https://www.linkedin.com/in/nicole-paz-bracamonte-646465185"
+      }
     ],
     "lat": 33.7853,
     "lng": -118.3581
@@ -2024,8 +2543,14 @@
     "industry": "Med Devices",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/alana-chiampi-75061021",
-      "https://www.linkedin.com/in/bradley-floom"
+      {
+        "name": "Alana Chiampi",
+        "url": "https://www.linkedin.com/in/alana-chiampi-75061021"
+      },
+      {
+        "name": "Bradley Floom",
+        "url": "https://www.linkedin.com/in/bradley-floom"
+      }
     ],
     "lat": 33.427,
     "lng": -117.6109
@@ -2041,8 +2566,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/vivian-nguyen-b950a3177",
-      "https://www.linkedin.com/in/landon-nguyen-55abba1b5"
+      {
+        "name": "Vivian Nguyen",
+        "url": "https://www.linkedin.com/in/vivian-nguyen-b950a3177"
+      },
+      {
+        "name": "Landon Nguyen",
+        "url": "https://www.linkedin.com/in/landon-nguyen-55abba1b5"
+      }
     ],
     "lat": 33.427,
     "lng": -117.6109
@@ -2058,7 +2589,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/viraj-talpade"
+      {
+        "name": "Viraj Talpade",
+        "url": "https://www.linkedin.com/in/viraj-talpade"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2074,8 +2608,14 @@
     "industry": "Med Devices",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/lauraminarsch",
-      "https://www.linkedin.com/in/mohebyoussef"
+      {
+        "name": "Lauraminarsch",
+        "url": "https://www.linkedin.com/in/lauraminarsch"
+      },
+      {
+        "name": "Mohebyoussef",
+        "url": "https://www.linkedin.com/in/mohebyoussef"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2091,7 +2631,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/finneykevin"
+      {
+        "name": "Finneykevin",
+        "url": "https://www.linkedin.com/in/finneykevin"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2107,8 +2650,14 @@
     "industry": "Research Tools",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/tiffanysoriano",
-      "https://www.linkedin.com/in/dimitryzelenyuk"
+      {
+        "name": "Tiffanysoriano",
+        "url": "https://www.linkedin.com/in/tiffanysoriano"
+      },
+      {
+        "name": "Dimitryzelenyuk",
+        "url": "https://www.linkedin.com/in/dimitryzelenyuk"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2124,7 +2673,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/sandigarza"
+      {
+        "name": "Sandigarza",
+        "url": "https://www.linkedin.com/in/sandigarza"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2140,7 +2692,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/aconde"
+      {
+        "name": "Aconde",
+        "url": "https://www.linkedin.com/in/aconde"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2156,9 +2711,18 @@
     "industry": "Biopharma",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/avani-s-patel-7942713",
-      "https://www.linkedin.com/in/brandon-vu",
-      "https://www.linkedin.com/in/rhiannonaxton"
+      {
+        "name": "Avani S",
+        "url": "https://www.linkedin.com/in/avani-s-patel-7942713"
+      },
+      {
+        "name": "Brandon Vu",
+        "url": "https://www.linkedin.com/in/brandon-vu"
+      },
+      {
+        "name": "Rhiannonaxton",
+        "url": "https://www.linkedin.com/in/rhiannonaxton"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2174,7 +2738,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/rosalva-scholes-9a7322b5"
+      {
+        "name": "Rosalva Scholes",
+        "url": "https://www.linkedin.com/in/rosalva-scholes-9a7322b5"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2190,7 +2757,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/holly-chrzanowski-winter-60b73513"
+      {
+        "name": "Holly Chrzanowski",
+        "url": "https://www.linkedin.com/in/holly-chrzanowski-winter-60b73513"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2206,7 +2776,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/aparnashinde"
+      {
+        "name": "Aparnashinde",
+        "url": "https://www.linkedin.com/in/aparnashinde"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2222,7 +2795,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/jeff-s-774bb24"
+      {
+        "name": "Jeff S",
+        "url": "https://www.linkedin.com/in/jeff-s-774bb24"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2238,7 +2814,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/scott-webster-570a9b41"
+      {
+        "name": "Scott Webster",
+        "url": "https://www.linkedin.com/in/scott-webster-570a9b41"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2254,7 +2833,10 @@
     "industry": "Diagnostics",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/cody-caldwell-73862874"
+      {
+        "name": "Cody Caldwell",
+        "url": "https://www.linkedin.com/in/cody-caldwell-73862874"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2270,9 +2852,15 @@
     "industry": "Biopharma",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/susan-sloan-ortiz-34a1641",
+      {
+        "name": "Susan Sloan",
+        "url": "https://www.linkedin.com/in/susan-sloan-ortiz-34a1641"
+      },
       "https://www.linkedin.com/in/jeansan29",
-      "https://www.linkedin.com/in/niccole-le"
+      {
+        "name": "Niccole Le",
+        "url": "https://www.linkedin.com/in/niccole-le"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2288,7 +2876,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/kelli-cross-17406551"
+      {
+        "name": "Kelli Cross",
+        "url": "https://www.linkedin.com/in/kelli-cross-17406551"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2304,8 +2895,14 @@
     "industry": "Med Devices",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/darcy-vincent-019b99b8",
-      "https://www.linkedin.com/in/richard-y-279572b9"
+      {
+        "name": "Darcy Vincent",
+        "url": "https://www.linkedin.com/in/darcy-vincent-019b99b8"
+      },
+      {
+        "name": "Richard Y",
+        "url": "https://www.linkedin.com/in/richard-y-279572b9"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2321,7 +2918,10 @@
     "industry": "CRO / CMO",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/jeffbhuber"
+      {
+        "name": "Jeffbhuber",
+        "url": "https://www.linkedin.com/in/jeffbhuber"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2353,9 +2953,18 @@
     "industry": "Biopharma",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/hashini-batugedara",
-      "https://www.linkedin.com/in/melodymaniex",
-      "https://www.linkedin.com/in/phelicita-bell-80482b16b"
+      {
+        "name": "Hashini Batugedara",
+        "url": "https://www.linkedin.com/in/hashini-batugedara"
+      },
+      {
+        "name": "Melodymaniex",
+        "url": "https://www.linkedin.com/in/melodymaniex"
+      },
+      {
+        "name": "Phelicita Bell",
+        "url": "https://www.linkedin.com/in/phelicita-bell-80482b16b"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2371,8 +2980,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/tatiana-marcet-nissel-00311b31",
-      "https://www.linkedin.com/in/kyle-schlunegger-56065a19"
+      {
+        "name": "Tatiana Marcet",
+        "url": "https://www.linkedin.com/in/tatiana-marcet-nissel-00311b31"
+      },
+      {
+        "name": "Kyle Schlunegger",
+        "url": "https://www.linkedin.com/in/kyle-schlunegger-56065a19"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2388,8 +3003,14 @@
     "industry": "Diagnostics",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/jelani-hyde-406117106",
-      "https://www.linkedin.com/in/morgan-thomas-0a3000b3"
+      {
+        "name": "Jelani Hyde",
+        "url": "https://www.linkedin.com/in/jelani-hyde-406117106"
+      },
+      {
+        "name": "Morgan Thomas",
+        "url": "https://www.linkedin.com/in/morgan-thomas-0a3000b3"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2405,9 +3026,18 @@
     "industry": "Diagnostics",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/deeannasamoto",
-      "https://www.linkedin.com/in/anicasayocbecerra",
-      "https://www.linkedin.com/in/lisa-aungyong-578ab7112"
+      {
+        "name": "Deeannasamoto",
+        "url": "https://www.linkedin.com/in/deeannasamoto"
+      },
+      {
+        "name": "Anicasayocbecerra",
+        "url": "https://www.linkedin.com/in/anicasayocbecerra"
+      },
+      {
+        "name": "Lisa Aungyong",
+        "url": "https://www.linkedin.com/in/lisa-aungyong-578ab7112"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2423,8 +3053,14 @@
     "industry": "Med Devices",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/alex-race-8211b083",
-      "https://www.linkedin.com/in/dipti-shedji-a59aab40"
+      {
+        "name": "Alex Race",
+        "url": "https://www.linkedin.com/in/alex-race-8211b083"
+      },
+      {
+        "name": "Dipti Shedji",
+        "url": "https://www.linkedin.com/in/dipti-shedji-a59aab40"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2440,7 +3076,10 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/kimmy-uyen-pham-417505192",
+      {
+        "name": "Kimmy Uyen",
+        "url": "https://www.linkedin.com/in/kimmy-uyen-pham-417505192"
+      },
       "https://www.linkedin.com/in/sherinmathew1"
     ],
     "lat": 32.7157,
@@ -2457,9 +3096,18 @@
     "industry": "Biopharma",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/aylamp",
-      "https://www.linkedin.com/in/michellehigley",
-      "https://www.linkedin.com/in/jim-nguyen-hf"
+      {
+        "name": "Aylamp",
+        "url": "https://www.linkedin.com/in/aylamp"
+      },
+      {
+        "name": "Michellehigley",
+        "url": "https://www.linkedin.com/in/michellehigley"
+      },
+      {
+        "name": "Jim Nguyen",
+        "url": "https://www.linkedin.com/in/jim-nguyen-hf"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2475,7 +3123,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/ellen-vasquez-b378749"
+      {
+        "name": "Ellen Vasquez",
+        "url": "https://www.linkedin.com/in/ellen-vasquez-b378749"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2491,8 +3142,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/christina-truong-723783157",
-      "https://www.linkedin.com/in/nikki-viola"
+      {
+        "name": "Christina Truong",
+        "url": "https://www.linkedin.com/in/christina-truong-723783157"
+      },
+      {
+        "name": "Nikki Viola",
+        "url": "https://www.linkedin.com/in/nikki-viola"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2508,7 +3165,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/brent-wilkinson"
+      {
+        "name": "Brent Wilkinson",
+        "url": "https://www.linkedin.com/in/brent-wilkinson"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2524,9 +3184,18 @@
     "industry": "Biopharma",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/cory-arnold-74326a171",
-      "https://www.linkedin.com/in/elena-philippou",
-      "https://www.linkedin.com/in/s-zechariah-mel"
+      {
+        "name": "Cory Arnold",
+        "url": "https://www.linkedin.com/in/cory-arnold-74326a171"
+      },
+      {
+        "name": "Elena Philippou",
+        "url": "https://www.linkedin.com/in/elena-philippou"
+      },
+      {
+        "name": "S Zechariah",
+        "url": "https://www.linkedin.com/in/s-zechariah-mel"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2542,9 +3211,18 @@
     "industry": "Biopharma",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/lee-macklin-2020-lm",
-      "https://www.linkedin.com/in/ian-lichodziejewski-87a6223b",
-      "https://www.linkedin.com/in/maria-aziel-c-14319a70"
+      {
+        "name": "Lee Macklin",
+        "url": "https://www.linkedin.com/in/lee-macklin-2020-lm"
+      },
+      {
+        "name": "Ian Lichodziejewski",
+        "url": "https://www.linkedin.com/in/ian-lichodziejewski-87a6223b"
+      },
+      {
+        "name": "Maria Aziel",
+        "url": "https://www.linkedin.com/in/maria-aziel-c-14319a70"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2560,7 +3238,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/daniel-olson-b6a89972"
+      {
+        "name": "Daniel Olson",
+        "url": "https://www.linkedin.com/in/daniel-olson-b6a89972"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2576,7 +3257,10 @@
     "industry": "Diagnostics",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/greg-merrick-b55b631"
+      {
+        "name": "Greg Merrick",
+        "url": "https://www.linkedin.com/in/greg-merrick-b55b631"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2592,8 +3276,14 @@
     "industry": "Diagnostics",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/ed-bernardo-2688596",
-      "https://www.linkedin.com/in/lauren-b-8150524",
+      {
+        "name": "Ed Bernardo",
+        "url": "https://www.linkedin.com/in/ed-bernardo-2688596"
+      },
+      {
+        "name": "Lauren B",
+        "url": "https://www.linkedin.com/in/lauren-b-8150524"
+      },
       "https://www.linkedin.com/in/charlesjohn4instsvc2techpro"
     ],
     "lat": 32.7157,
@@ -2610,7 +3300,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/tahanialbulushi"
+      {
+        "name": "Tahanialbulushi",
+        "url": "https://www.linkedin.com/in/tahanialbulushi"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2626,8 +3319,14 @@
     "industry": "Med Devices",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/nader-namdar-62a76a6",
-      "https://www.linkedin.com/in/yasushi-sakamoto-ba218723"
+      {
+        "name": "Nader Namdar",
+        "url": "https://www.linkedin.com/in/nader-namdar-62a76a6"
+      },
+      {
+        "name": "Yasushi Sakamoto",
+        "url": "https://www.linkedin.com/in/yasushi-sakamoto-ba218723"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2643,7 +3342,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/sabrinadeltoro"
+      {
+        "name": "Sabrinadeltoro",
+        "url": "https://www.linkedin.com/in/sabrinadeltoro"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2659,9 +3361,18 @@
     "industry": "Diagnostics",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/jeff-white-pmp-521b124",
-      "https://www.linkedin.com/in/yocum-bill-12b098a0",
-      "https://www.linkedin.com/in/randy-r-4ab14b86"
+      {
+        "name": "Jeff White",
+        "url": "https://www.linkedin.com/in/jeff-white-pmp-521b124"
+      },
+      {
+        "name": "Yocum Bill",
+        "url": "https://www.linkedin.com/in/yocum-bill-12b098a0"
+      },
+      {
+        "name": "Randy R",
+        "url": "https://www.linkedin.com/in/randy-r-4ab14b86"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2677,7 +3388,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/kn-biochem"
+      {
+        "name": "Kn Biochem",
+        "url": "https://www.linkedin.com/in/kn-biochem"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2693,8 +3407,14 @@
     "industry": "Med Devices",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/brian-narciso-8599271",
-      "https://www.linkedin.com/in/tiana-lynn-higham"
+      {
+        "name": "Brian Narciso",
+        "url": "https://www.linkedin.com/in/brian-narciso-8599271"
+      },
+      {
+        "name": "Tiana Lynn",
+        "url": "https://www.linkedin.com/in/tiana-lynn-higham"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2710,7 +3430,10 @@
     "industry": "CRO / CMO",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/matthew-unkrich-3282457"
+      {
+        "name": "Matthew Unkrich",
+        "url": "https://www.linkedin.com/in/matthew-unkrich-3282457"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2726,7 +3449,10 @@
     "industry": "CRO / CMO",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/noelle-smiley"
+      {
+        "name": "Noelle Smiley",
+        "url": "https://www.linkedin.com/in/noelle-smiley"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2742,7 +3468,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/kelly-larrick-2b23b4220"
+      {
+        "name": "Kelly Larrick",
+        "url": "https://www.linkedin.com/in/kelly-larrick-2b23b4220"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2758,9 +3487,18 @@
     "industry": "Biopharma",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/mark-aquino-b9193b32",
-      "https://www.linkedin.com/in/stephen-rice-2b8742b7",
-      "https://www.linkedin.com/in/emmanuel-cuevas-2713b6159"
+      {
+        "name": "Mark Aquino",
+        "url": "https://www.linkedin.com/in/mark-aquino-b9193b32"
+      },
+      {
+        "name": "Stephen Rice",
+        "url": "https://www.linkedin.com/in/stephen-rice-2b8742b7"
+      },
+      {
+        "name": "Emmanuel Cuevas",
+        "url": "https://www.linkedin.com/in/emmanuel-cuevas-2713b6159"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2776,9 +3514,18 @@
     "industry": "Biopharma",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/agvpang",
-      "https://www.linkedin.com/in/larissa-mcdonald-5b9b209",
-      "https://www.linkedin.com/in/laurenjhoughton"
+      {
+        "name": "Agvpang",
+        "url": "https://www.linkedin.com/in/agvpang"
+      },
+      {
+        "name": "Larissa Mcdonald",
+        "url": "https://www.linkedin.com/in/larissa-mcdonald-5b9b209"
+      },
+      {
+        "name": "Laurenjhoughton",
+        "url": "https://www.linkedin.com/in/laurenjhoughton"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2794,7 +3541,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/zach-pearson-665289124"
+      {
+        "name": "Zach Pearson",
+        "url": "https://www.linkedin.com/in/zach-pearson-665289124"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2810,8 +3560,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/richard-pagliery-76ba683",
-      "https://www.linkedin.com/in/ellen-teneriello-a6501118"
+      {
+        "name": "Richard Pagliery",
+        "url": "https://www.linkedin.com/in/richard-pagliery-76ba683"
+      },
+      {
+        "name": "Ellen Teneriello",
+        "url": "https://www.linkedin.com/in/ellen-teneriello-a6501118"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2827,7 +3583,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/david-milliken-05424449"
+      {
+        "name": "David Milliken",
+        "url": "https://www.linkedin.com/in/david-milliken-05424449"
+      }
     ],
     "lat": 32.7157,
     "lng": -117.1611
@@ -2843,9 +3602,18 @@
     "industry": "Diagnostics",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/estibaliz-alvarado-9bb4151a",
-      "https://www.linkedin.com/in/louis-geller-m-s-370193a",
-      "https://www.linkedin.com/in/kenzo-k-995b1628"
+      {
+        "name": "Estibaliz Alvarado",
+        "url": "https://www.linkedin.com/in/estibaliz-alvarado-9bb4151a"
+      },
+      {
+        "name": "Louis Geller",
+        "url": "https://www.linkedin.com/in/louis-geller-m-s-370193a"
+      },
+      {
+        "name": "Kenzo K",
+        "url": "https://www.linkedin.com/in/kenzo-k-995b1628"
+      }
     ],
     "lat": 33.7455,
     "lng": -117.8677
@@ -2861,8 +3629,14 @@
     "industry": "CRO / CMO",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/damon-jones-2268868",
-      "https://www.linkedin.com/in/kirolos-george"
+      {
+        "name": "Damon Jones",
+        "url": "https://www.linkedin.com/in/damon-jones-2268868"
+      },
+      {
+        "name": "Kirolos George",
+        "url": "https://www.linkedin.com/in/kirolos-george"
+      }
     ],
     "lat": 33.7455,
     "lng": -117.8677
@@ -2878,8 +3652,14 @@
     "industry": "Med Devices",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/hana-m-1640031b",
-      "https://www.linkedin.com/in/nia-sanchez-bello"
+      {
+        "name": "Hana M",
+        "url": "https://www.linkedin.com/in/hana-m-1640031b"
+      },
+      {
+        "name": "Nia Sanchez",
+        "url": "https://www.linkedin.com/in/nia-sanchez-bello"
+      }
     ],
     "lat": 33.7455,
     "lng": -117.8677
@@ -2895,8 +3675,14 @@
     "industry": "Med Devices",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/nhat-tam-nguyen-43a7b248",
-      "https://www.linkedin.com/in/sukmar-ramanan"
+      {
+        "name": "Nhat Tam",
+        "url": "https://www.linkedin.com/in/nhat-tam-nguyen-43a7b248"
+      },
+      {
+        "name": "Sukmar Ramanan",
+        "url": "https://www.linkedin.com/in/sukmar-ramanan"
+      }
     ],
     "lat": 33.7455,
     "lng": -117.8677
@@ -2912,8 +3698,14 @@
     "industry": "Diagnostics",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/bill-nguyen-1b0b2168",
-      "https://www.linkedin.com/in/madalynn-duncan"
+      {
+        "name": "Bill Nguyen",
+        "url": "https://www.linkedin.com/in/bill-nguyen-1b0b2168"
+      },
+      {
+        "name": "Madalynn Duncan",
+        "url": "https://www.linkedin.com/in/madalynn-duncan"
+      }
     ],
     "lat": 33.9428,
     "lng": -118.07
@@ -2929,7 +3721,10 @@
     "industry": "Med Devices",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/jay-hardy-2745118"
+      {
+        "name": "Jay Hardy",
+        "url": "https://www.linkedin.com/in/jay-hardy-2745118"
+      }
     ],
     "lat": 34.953,
     "lng": -120.4358
@@ -2945,9 +3740,15 @@
     "industry": "Cell & Gene Therapy",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/esther-guerrido-69024a3a",
+      {
+        "name": "Esther Guerrido",
+        "url": "https://www.linkedin.com/in/esther-guerrido-69024a3a"
+      },
       "https://www.linkedin.com/in/timmydelacruz831",
-      "https://www.linkedin.com/in/kristallynn-monroy"
+      {
+        "name": "Kristallynn Monroy",
+        "url": "https://www.linkedin.com/in/kristallynn-monroy"
+      }
     ],
     "lat": 34.0195,
     "lng": -118.4912
@@ -2963,9 +3764,18 @@
     "industry": "Cell & Gene Therapy",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/bryan-lopez-9b0110177",
-      "https://www.linkedin.com/in/brenda-l-018903206",
-      "https://www.linkedin.com/in/augusto-ramos-garcia-3a45896"
+      {
+        "name": "Bryan Lopez",
+        "url": "https://www.linkedin.com/in/bryan-lopez-9b0110177"
+      },
+      {
+        "name": "Brenda L",
+        "url": "https://www.linkedin.com/in/brenda-l-018903206"
+      },
+      {
+        "name": "Augusto Ramos",
+        "url": "https://www.linkedin.com/in/augusto-ramos-garcia-3a45896"
+      }
     ],
     "lat": 33.7414,
     "lng": -118.1048
@@ -2981,9 +3791,18 @@
     "industry": "Med Devices",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/turath-liebenau-1b4224305",
-      "https://www.linkedin.com/in/aleeya-mitsch",
-      "https://www.linkedin.com/in/alberto-lopez-966b1518b"
+      {
+        "name": "Turath Liebenau",
+        "url": "https://www.linkedin.com/in/turath-liebenau-1b4224305"
+      },
+      {
+        "name": "Aleeya Mitsch",
+        "url": "https://www.linkedin.com/in/aleeya-mitsch"
+      },
+      {
+        "name": "Alberto Lopez",
+        "url": "https://www.linkedin.com/in/alberto-lopez-966b1518b"
+      }
     ],
     "lat": 34.3103,
     "lng": -118.4467
@@ -2997,11 +3816,16 @@
     "description": "Purification, Analytic Biologics, Discovery",
     "website": "https://www.emdmillipore.com/US/en",
     "industry": "Biopharma",
-    "alumCount": 3,
+    "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/kunaal-sarhaya",
-      "https://www.linkedin.com/in/thad-baker-538a0522",
-      "https://www.linkedin.com/in/thad-baker-538a0522"
+      {
+        "name": "Kunaal Sarhaya",
+        "url": "https://www.linkedin.com/in/kunaal-sarhaya"
+      },
+      {
+        "name": "Thad Baker",
+        "url": "https://www.linkedin.com/in/thad-baker-538a0522"
+      }
     ],
     "lat": 33.4936,
     "lng": -117.1484
@@ -3017,8 +3841,14 @@
     "industry": "Biopharma",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/jonathan-gutierrez-670b8b122",
-      "https://www.linkedin.com/in/yara-al-hinn",
+      {
+        "name": "Jonathan Gutierrez",
+        "url": "https://www.linkedin.com/in/jonathan-gutierrez-670b8b122"
+      },
+      {
+        "name": "Yara Al",
+        "url": "https://www.linkedin.com/in/yara-al-hinn"
+      },
       "https://www.linkedin.com/in/hoangtran96"
     ],
     "lat": 34.1706,
@@ -3035,7 +3865,10 @@
     "industry": "Cell & Gene Therapy",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/vanessa-l-camacho"
+      {
+        "name": "Vanessa L",
+        "url": "https://www.linkedin.com/in/vanessa-l-camacho"
+      }
     ],
     "lat": 34.1706,
     "lng": -118.8376
@@ -3051,8 +3884,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/roger-hines-1489b75",
-      "https://www.linkedin.com/in/victoria-anne-blake-pa"
+      {
+        "name": "Roger Hines",
+        "url": "https://www.linkedin.com/in/roger-hines-1489b75"
+      },
+      {
+        "name": "Victoria Anne",
+        "url": "https://www.linkedin.com/in/victoria-anne-blake-pa"
+      }
     ],
     "lat": 34.1706,
     "lng": -118.8376
@@ -3068,8 +3907,14 @@
     "industry": "Biopharma",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/abdo-jaber-mba-pmp-35866811",
-      "https://www.linkedin.com/in/david-so-b9065075"
+      {
+        "name": "Abdo Jaber",
+        "url": "https://www.linkedin.com/in/abdo-jaber-mba-pmp-35866811"
+      },
+      {
+        "name": "David So",
+        "url": "https://www.linkedin.com/in/david-so-b9065075"
+      }
     ],
     "lat": 33.8358,
     "lng": -118.3406
@@ -3085,7 +3930,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/salazarjanet"
+      {
+        "name": "Salazarjanet",
+        "url": "https://www.linkedin.com/in/salazarjanet"
+      }
     ],
     "lat": 33.8358,
     "lng": -118.3406
@@ -3101,9 +3949,18 @@
     "industry": "Biopharma",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/diana-jimenez-bb7028111",
-      "https://www.linkedin.com/in/arturo-lopez-7bb206bb",
-      "https://www.linkedin.com/in/john-duongineer"
+      {
+        "name": "Diana Jimenez",
+        "url": "https://www.linkedin.com/in/diana-jimenez-bb7028111"
+      },
+      {
+        "name": "Arturo Lopez",
+        "url": "https://www.linkedin.com/in/arturo-lopez-7bb206bb"
+      },
+      {
+        "name": "John Duongineer",
+        "url": "https://www.linkedin.com/in/john-duongineer"
+      }
     ],
     "lat": 33.8358,
     "lng": -118.3406
@@ -3119,9 +3976,18 @@
     "industry": "Biopharma",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/maria-aziel-c-14319a70",
-      "https://www.linkedin.com/in/lee-macklin-2020-lm",
-      "https://www.linkedin.com/in/merlyn-arostegui-a72959107"
+      {
+        "name": "Maria Aziel",
+        "url": "https://www.linkedin.com/in/maria-aziel-c-14319a70"
+      },
+      {
+        "name": "Lee Macklin",
+        "url": "https://www.linkedin.com/in/lee-macklin-2020-lm"
+      },
+      {
+        "name": "Merlyn Arostegui",
+        "url": "https://www.linkedin.com/in/merlyn-arostegui-a72959107"
+      }
     ],
     "lat": 33.8358,
     "lng": -118.3406
@@ -3137,7 +4003,10 @@
     "industry": "Diagnostics",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/linh-t-70b9ba210"
+      {
+        "name": "Linh T",
+        "url": "https://www.linkedin.com/in/linh-t-70b9ba210"
+      }
     ],
     "lat": 33.7458,
     "lng": -117.8261
@@ -3153,10 +4022,22 @@
     "industry": "Research Tools",
     "alumCount": 4,
     "alums": [
-      "https://www.linkedin.com/in/angele-de-silva-ab6643b6",
-      "https://www.linkedin.com/in/maria-rivera-053674167",
-      "https://www.linkedin.com/in/john-sherman-34823878",
-      "https://www.linkedin.com/in/kristopher-locken-a5a071a3"
+      {
+        "name": "Angele De",
+        "url": "https://www.linkedin.com/in/angele-de-silva-ab6643b6"
+      },
+      {
+        "name": "Maria Rivera",
+        "url": "https://www.linkedin.com/in/maria-rivera-053674167"
+      },
+      {
+        "name": "John Sherman",
+        "url": "https://www.linkedin.com/in/john-sherman-34823878"
+      },
+      {
+        "name": "Kristopher Locken",
+        "url": "https://www.linkedin.com/in/kristopher-locken-a5a071a3"
+      }
     ],
     "lat": 33.7458,
     "lng": -117.8261
@@ -3172,8 +4053,14 @@
     "industry": "Med Devices",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/amandamarie-martinez-",
-      "https://www.linkedin.com/in/tina-lee-342067122"
+      {
+        "name": "Amandamarie Martinez",
+        "url": "https://www.linkedin.com/in/amandamarie-martinez-"
+      },
+      {
+        "name": "Tina Lee",
+        "url": "https://www.linkedin.com/in/tina-lee-342067122"
+      }
     ],
     "lat": 34.438,
     "lng": -118.6067
@@ -3189,8 +4076,14 @@
     "industry": "Med Devices",
     "alumCount": 2,
     "alums": [
-      "https://www.linkedin.com/in/aathirtha",
-      "https://www.linkedin.com/in/ana-pimentelmadrigal"
+      {
+        "name": "Aathirtha",
+        "url": "https://www.linkedin.com/in/aathirtha"
+      },
+      {
+        "name": "Ana Pimentelmadrigal",
+        "url": "https://www.linkedin.com/in/ana-pimentelmadrigal"
+      }
     ],
     "lat": 34.438,
     "lng": -118.6067
@@ -3206,9 +4099,18 @@
     "industry": "Med Devices",
     "alumCount": 3,
     "alums": [
-      "https://www.linkedin.com/in/eduardo-charcas-5605a8a6",
-      "https://www.linkedin.com/in/nidia-garcia-03568297",
-      "https://www.linkedin.com/in/pierre-boisier-06162a5"
+      {
+        "name": "Eduardo Charcas",
+        "url": "https://www.linkedin.com/in/eduardo-charcas-5605a8a6"
+      },
+      {
+        "name": "Nidia Garcia",
+        "url": "https://www.linkedin.com/in/nidia-garcia-03568297"
+      },
+      {
+        "name": "Pierre Boisier",
+        "url": "https://www.linkedin.com/in/pierre-boisier-06162a5"
+      }
     ],
     "lat": 34.438,
     "lng": -118.6067
@@ -3224,7 +4126,10 @@
     "industry": "Biopharma",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/sara-branch-100468263"
+      {
+        "name": "Sara Branch",
+        "url": "https://www.linkedin.com/in/sara-branch-100468263"
+      }
     ],
     "lat": 34.1475,
     "lng": -118.82
@@ -3240,7 +4145,10 @@
     "industry": "Cell & Gene Therapy",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/cassie-knox-06b434114"
+      {
+        "name": "Cassie Knox",
+        "url": "https://www.linkedin.com/in/cassie-knox-06b434114"
+      }
     ],
     "lat": 34.1475,
     "lng": -118.82
@@ -3256,7 +4164,10 @@
     "industry": "Diagnostics",
     "alumCount": 1,
     "alums": [
-      "https://www.linkedin.com/in/matthewmaland"
+      {
+        "name": "Matthewmaland",
+        "url": "https://www.linkedin.com/in/matthewmaland"
+      }
     ],
     "lat": 34.1684,
     "lng": -118.6059

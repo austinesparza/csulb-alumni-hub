@@ -1,0 +1,48 @@
+name: Sync data & rebuild
+
+# Runs automatically every Monday morning, on any push to main, or manually
+# from the Actions tab ("Run workflow" button). It pulls the latest Google
+# Sheet data, rebuilds the app, runs the tests, and commits the result —
+# GitHub Pages then serves the fresh version. Nobody needs Node installed.
+
+on:
+  schedule:
+    - cron: '0 14 * * 1'   # Mondays 6:00 AM Pacific
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['src/**', 'data/**', 'scripts/**', 'assets/**', 'package.json']
+
+jobs:
+  sync-build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Sync from Google Sheet
+        run: node scripts/sync.mjs || echo "::warning::Sheet unavailable — rebuilding from last committed data"
+
+      - name: Build
+        run: node scripts/build.mjs
+
+      - name: Test
+        run: |
+          node scripts/smoke-test.mjs
+          node scripts/smoke-test-live.mjs
+
+      - name: Commit refreshed build
+        run: |
+          git config user.name "alumni-hub-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Auto-sync data & rebuild"
+          git push

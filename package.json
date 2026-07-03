@@ -1,0 +1,19 @@
+{
+  "name": "csulb-alumni-hub",
+  "private": true,
+  "version": "2.0.0",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "sync": "node scripts/sync.mjs",
+    "test": "node scripts/smoke-test.mjs && node scripts/smoke-test-live.mjs"
+  },
+  "dependencies": {
+    "@babel/standalone": "^7.29.0",
+    "leaflet": "^1.9.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "jsdom": "^24.1.3"
+  }
+}

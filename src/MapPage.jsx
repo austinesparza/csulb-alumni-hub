@@ -58,9 +58,13 @@ const MapPage = () => {
     const L = window.L;
     if (!L) return;
     const map = L.map(mapContainerRef.current, { center:[33.65,-117.95], zoom:9, zoomControl:true, scrollWheelZoom:true });
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-      attribution:'© OpenStreetMap © CARTO', subdomains:'abcd', maxZoom:19
-    }).addTo(map);
+  L.tileLayer(
+  'https://basemaps.cartocdn.com/rastertiles/light_all/{z}/{x}/{y}.png?key=cb1_30t9_2_8d20cbefd1cf0a94518c6961',
+  {
+    attribution: '© OpenStreetMap contributors © CARTO',
+    maxZoom: 19
+  }
+).addTo(map);
     mapInstanceRef.current = map;
     cityGroups.forEach(g => addMarker(map, g));
     return () => { map.remove(); mapInstanceRef.current = null; };
